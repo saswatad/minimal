@@ -10,9 +10,16 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Grant Thronton Common Data Plaform
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+•	Over 16 years of Data Discovery & Analysis, Data Modeling, ETL Design, Development, Testing, Implementation and Troubleshooting in the field of Data warehousing and Application Development.
+•	Domain Experience - 10 years in Airlines, 2 years in Investement Banking, 1 Year in Retail Banking sector
+•	More than 5 years experience in Agile delivery approach.
+•	Played various roles on Projects that required DW/ETL/Data Architect, Technical Lead, Developer 
+•	Proficient in analyzing business requirements & translate them into developer friendly technical design documents.
+•	Experience in OLTP/DW/ODS/Cloud - Data Modeling.
+•	Having 9 yrs of working experience in US. I140 approved and need H1B extension beyond 6 year
+
 
 ## Header 2
 
